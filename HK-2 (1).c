@@ -1,14 +1,4 @@
-/********************************************************************************
- Written by: Vinod Desai, NEX Robotics Pvt. Ltd.
- Edited by: Sachitanand Malewar, NEX Robotics Pvt. Ltd.
- AVR Studio Version 4.17, Build 666
-
- Date: 26th December 2010
-
- In this experiment ADC captures the analog sensor values and displays it on the LCD
-
- Concepts covered:  ADC, LCD interfacing
-
+/*
  LCD Connections:
  			  LCD	  Microcontroller Pins
  			  RS  --> PC0
